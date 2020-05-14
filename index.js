@@ -151,4 +151,4 @@ if (command === "ban"){
 })
 })
 
-bot.login(config.token)
+bot.login(process.env.TOKEN)
