@@ -5,7 +5,7 @@ const config = require("./config.json")
 bot.on('ready', function () {
     console.log(`Le bot est maintenant en ligne. ➔ ${bot.user.tag}.`)
 
-bot.user.setActivity(`commande ${config.prefix}help`, {type: "WATCHING"})
+bot.user.setActivity(`la commande ${config.prefix}help`, {type: "WATCHING"})
 
 
 bot.fetchApplication().then(async app => {
