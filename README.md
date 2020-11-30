@@ -1,2 +1,2 @@
 # Kelokssss
-Bot pour Kelokssss#0791
+Bot for Kelokssss#0791
