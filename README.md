@@ -1,2 +1,2 @@
 # Kelokssss
-Bot for Kelokssss#0791
+Discord bot for Kelokssss#0791
